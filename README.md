@@ -13,6 +13,6 @@ Citation/Acknowledgement:
 
   2. This is due to the project was done using the OSC's cloud (https://www.osc.edu/resources/online_portals/ondemand) and a PDF was downloaded from their to submit as final work.
 
-Score: 1o/10
+Score: 10/10
 
 
